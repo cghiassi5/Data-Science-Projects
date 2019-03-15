@@ -1,2 +1,2 @@
-# Gene Variant Classification
+## Gene Variant Classification
 This analysis is due in large part to work done by Kevin and posted on kaggle (https://www.kaggle.com/kevinarvai/clinvar-conflicting#clinvar_conflicting.csv). The curated data set was used for analysis of these genes. An analysis was performed on different genes and what lead different clinics to misclassify them as pathogenic or benign. The data was gathered from ClinVar which contains annotations about genetic variants. This project was done for self learning.
