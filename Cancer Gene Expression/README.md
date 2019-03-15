@@ -1,0 +1,2 @@
+# Cancer Gene Expression
+  The goal of this analysis was to replicate the results of (Golub et al 1999) in their analysis of DNA microarray data (https://www.ncbi.nlm.nih.gov/pubmed/10521349). The goal was to create a model which predicts whether a patient has Acute Myeloid Leukemia (AML) or acute lymphoblastic leukemia (ALL) based on gene expression data. This project was inspired and to some extent guided by kernels found on on kaggle (https://www.kaggle.com/crawford/gene-expression/kernels).
